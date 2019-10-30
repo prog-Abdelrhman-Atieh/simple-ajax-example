@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <title>Bitnami: Open Source. Simplified</title>
+  <title>ajax</title>
   <style>
 	.main-content{
 		width:600px;
