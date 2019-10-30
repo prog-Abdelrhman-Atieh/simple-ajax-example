@@ -64,8 +64,8 @@
 						infos[0].innerHTML=I.name;
 						infos[1].innerHTML=I.age;
 					}else{
-						infos[0].innerHTML='Undefoned';
-						infos[1].innerHTML='Undefoned';
+						infos[0].innerHTML='undefined';
+						infos[1].innerHTML='undefined';
 					}
 				}
 			};
