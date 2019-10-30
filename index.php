@@ -69,7 +69,7 @@
 					}
 				}
 			};
-			con.open("POST", `./DB.php?num=${num.value}`, true);
+			con.open("GET", `./DB.php?num=${num.value}`, true);
 			con.send();
 		}
 	</script>
